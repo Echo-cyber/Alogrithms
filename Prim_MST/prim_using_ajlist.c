@@ -2,7 +2,7 @@
 //  minHeap.c
 //  MST
 //
-//  Created by qiaoyan on 4/27/21.
+//  Created by Echo Zhao on 4/27/21. -copyright reserved
 //
 
 
